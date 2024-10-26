@@ -1,0 +1,12 @@
+.menu-items {
+  background-color: black;
+  display: flex;
+  justify-content: flex-end;
+  color: #fff;
+}
+.menu-items a {
+  text-decoration: none;
+  padding: 0 10px;
+  color: #fff;
+  font-size: 18px;
+}

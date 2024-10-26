@@ -1,0 +1,46 @@
+[
+  {
+    "label": "Home",
+    "link": "/home"
+  },
+  {
+    "label": "Contact",
+    "link": "/contact"
+  },
+  {
+    "label": "About",
+    "link": "/about"
+  },
+  {
+    "label": "Use Reducer",
+    "link": "/usereducer"
+  },
+  {
+    "label": "Use Callback",
+    "link": "/usecallback"
+  },
+  {
+    "label": "Use Memo",
+    "link": "/usememo"
+  },
+  {
+    "label": "Custom Hook",
+    "link": "/customhook"
+  },
+  {
+    "label": "Use Transition Hook",
+    "link": "/usetransition"
+  },
+  {
+    "label": "Hoc",
+    "link": "/hoc"
+  },
+  {
+    "label": "Redux",
+    "link": "/redux"
+  },
+  {
+    "label": "Redux Saga",
+    "link": "/reduxsaga"
+  }
+]
